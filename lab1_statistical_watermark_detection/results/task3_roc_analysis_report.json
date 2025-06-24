@@ -1,0 +1,27 @@
+{
+  "experiment_summary": {
+    "total_models": 28,
+    "watermarked_models": 19,
+    "clean_models": 9,
+    "date": "2025-06-11 06:57:17"
+  },
+  "roc_analysis": {
+    "chi_square_auc": 0.7368421052631579,
+    "pvalue_auc": 0.7368421052631579,
+    "accuracy_auc": 1.0
+  },
+  "precision_recall_analysis": {
+    "chi_square_ap": 0.8308270676691728,
+    "accuracy_ap": 1.0
+  },
+  "threshold_analysis": {
+    "optimal_chi_square_threshold": 0.0
+  },
+  "performance_summary": {
+    "best_detection_method": [
+      "accuracy_auc",
+      1.0
+    ],
+    "detection_difficulty": "Easy"
+  }
+}
